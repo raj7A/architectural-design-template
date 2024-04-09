@@ -1,4 +1,13 @@
-## Table of Contents
+## What is this ?
+    Mike is a developer working on an development project and is tasked to come up with a architectural design proposal for the new technical/business requirement, 
+    and also is requested to present it to the wider audience (includes developer, product owner, managers etc) on various approaches he has taken into consideration. 
+    This is exactly where a standardized template would make things easier for the stake holders to "write" or "review" the design. 
+    Below is one such template that can be used while doing some architectural design.
+
+************************************************************************************************************************************************************************************************
+
+
+## _Table of Contents_
     Title
     Status
     Context
@@ -22,8 +31,6 @@
     Stake Holders
     Miscellaneous
 
-************************************************************************************************************************************************************************************************
-
 ### Title
 
      Tilte of the architecture design
@@ -43,7 +50,7 @@
 
 #### Design 1
         1. How
-            Explain how the proposed design approach works - if feasible, with diagram
+            Explain how the proposed design approach works - if feasible, with diagrams like draw.io
         2. Why
             Explain why do you think this design is feasible
         3. Maintainability
